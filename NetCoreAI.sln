@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project01_ApiDemo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project02_ApiConsumeUI", "NetCoreAI.Project02_ApiConsumeUI\NetCoreAI.Project02_ApiConsumeUI.csproj", "{408C0993-2486-4741-808E-7DF013B5491F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project03_RapidApi", "NetCoreAI.Project03_RapidApi\NetCoreAI.Project03_RapidApi.csproj", "{399BBF40-430C-4691-B3F4-82223CD199EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{408C0993-2486-4741-808E-7DF013B5491F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{408C0993-2486-4741-808E-7DF013B5491F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{408C0993-2486-4741-808E-7DF013B5491F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{399BBF40-430C-4691-B3F4-82223CD199EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399BBF40-430C-4691-B3F4-82223CD199EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399BBF40-430C-4691-B3F4-82223CD199EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399BBF40-430C-4691-B3F4-82223CD199EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
