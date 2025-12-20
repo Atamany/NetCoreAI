@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36717.8 d17.14
+VisualStudioVersion = 17.14.36717.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project01_ApiDemo", "NetCoreAI.Project01_ApiDemo\NetCoreAI.Project01_ApiDemo.csproj", "{500B61D8-EB27-4BD0-8409-D8BDD9C853B1}"
 EndProject
@@ -18,6 +18,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project07_TesseractOcr", "NetCoreAI.Project07_TesseractOcr\NetCoreAI.Project07_TesseractOcr.csproj", "{66F14BA4-8C29-40A1-A87A-7AF7AC0A63DE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project08_GoogleCloudVision", "NetCoreAI.Project08_GoogleCloudVision\NetCoreAI.Project08_GoogleCloudVision.csproj", "{369866D6-1159-40EF-A4A7-704775B92DC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project09_OpenAITranslate", "NetCoreAI.Project09_OpenAITranslate\NetCoreAI.Project09_OpenAITranslate.csproj", "{894145BD-BF22-4568-8639-B935D9009913}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{369866D6-1159-40EF-A4A7-704775B92DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{369866D6-1159-40EF-A4A7-704775B92DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{369866D6-1159-40EF-A4A7-704775B92DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894145BD-BF22-4568-8639-B935D9009913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894145BD-BF22-4568-8639-B935D9009913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894145BD-BF22-4568-8639-B935D9009913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894145BD-BF22-4568-8639-B935D9009913}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
