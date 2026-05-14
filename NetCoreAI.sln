@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project18_OpenAIN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project19_CreateStoryWithAI", "NetCoreAI.Project19_CreateStoryWithAI\NetCoreAI.Project19_CreateStoryWithAI.csproj", "{340CFFC3-F3FC-466B-AE6A-024BF2BD0D62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project20_RecipeSuggestionWithOpenAI", "NetCoreAI.Project20_RecipeSuggestionWithOpenAI\NetCoreAI.Project20_RecipeSuggestionWithOpenAI.csproj", "{4FBEFAA9-68AF-42D3-9B55-53317F3AB52C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{340CFFC3-F3FC-466B-AE6A-024BF2BD0D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{340CFFC3-F3FC-466B-AE6A-024BF2BD0D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{340CFFC3-F3FC-466B-AE6A-024BF2BD0D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FBEFAA9-68AF-42D3-9B55-53317F3AB52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBEFAA9-68AF-42D3-9B55-53317F3AB52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBEFAA9-68AF-42D3-9B55-53317F3AB52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBEFAA9-68AF-42D3-9B55-53317F3AB52C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
